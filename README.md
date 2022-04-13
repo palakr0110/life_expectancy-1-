@@ -1,1 +1,1 @@
-# life_expectancy-1-
+In this project, we will analyse some health and economical metrics in order to understand which type of conditions affect life expectancy most. The project relies on WHO (World Health Organization) data repository including 193 countries that also can be defined as Developed and Developing Countries.
